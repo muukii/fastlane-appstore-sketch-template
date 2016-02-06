@@ -4,6 +4,7 @@ For Fastlane
 
 ## Export for Fastlane
 
+```
 - 1_iPad.png
 - 1_iphone35@2x.png
 - 1_iphone4@2x.png
@@ -29,3 +30,4 @@ For Fastlane
 - 5_iphone4@2x.png
 - 5_iphone6@2x.png
 - 5_iphone6Plus@3x.png
+```
